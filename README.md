@@ -11,3 +11,5 @@ Eureka Server est également connu sous le nom de Discovery Server
 -------------------------------
 Dependance exigée:
 -Eureka Server :  Spring-cloud-netflix Eureka Server.
+
+![image](https://user-images.githubusercontent.com/61996048/143938947-2ec2a022-a741-48e6-b49e-cef849447ee8.png)
